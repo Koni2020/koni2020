@@ -11,5 +11,5 @@ Hnayu Jin, a student in University of Yunnan University of China.
 📫 How to reach me: HenryChin2006@gmail.com
 
 ![JinHanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=koni2020&hide=contribs&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koni2020&hide=javascript,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=koni2020&hide=javascript,html&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=koni2020&hide_progress=true))](https://github.com/anuraghazra/github-readme-stats)
 
